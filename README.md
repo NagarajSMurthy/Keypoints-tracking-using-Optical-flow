@@ -9,4 +9,5 @@ There are several algorithms proposed to solve the problem of Optical flow. I ha
 
 Steps:
 1. Input the number of points to track (Say, x). 
-2. Select the x points on the live video (Try to remain stil and then select). 
+2. Select the x points on the live video (Try to remain still and then select). 
+3. The selected points will be tracked on the live video.
